@@ -7,3 +7,5 @@ The players take turns to group cells giving a sum of 10 in such a way that the 
 The goal of the game is to get as much of the circled area in your color as possible. If a player has several areas, he takes the largest area into account when finally counting the results.
 ⠀
 We play until it is not possible to mark the sum 10. Then the players count the selected cells and the winner is the one who has the most of them. 
+
+For details look at https://dzieciakizpotencjalem.blogspot.com/2021/09/zbuduj-krolestwo-gra-z-dodawaniem-do-10.html
