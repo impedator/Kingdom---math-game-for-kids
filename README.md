@@ -1,6 +1,6 @@
 # Kingdom - math game for kids
 
-Script generates PDF file with table filled by random digits.
+Script królestwo-generator.py generates PDF file with table filled by random digits.
 
 The players take turns to group cells giving a sum of 10 in such a way that the marked fields are connected with each other on the sides (not at the corners). Each cell can only be used once.
 ⠀
